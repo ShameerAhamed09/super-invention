@@ -1,0 +1,17 @@
+div{
+    border : solid 2px rgb(199, 0, 0);
+    height: 200px;
+    width: 200px;
+    background-color: rgb(238, 0, 238);
+    font-size: 500px;
+    transition:  2s ,background-color 2s ;
+    transition-timing-function: linear;
+}
+div:hover{
+    font-size: 200px ;
+    width: 910px;
+    height: 500px;
+    color: blue;
+    background-color: rgb(75, 2, 2);
+    height: 500px;
+}
